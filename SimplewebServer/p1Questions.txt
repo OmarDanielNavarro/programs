@@ -1,0 +1,10 @@
+1. I thought p1 would take around 3 and a half hours.
+
+2. 
+Thought / Design: 1 hour
+Programming: 7 hours
+Debugging: 3 hour
+Total: 11
+
+
+I was 27% accurate for time estimating. Not to mention, it would have taken much longer if I didn't recieve help from colleagues.
